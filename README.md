@@ -203,4 +203,4 @@ Excel Viewer is offered as a complete free version, featuring all functionalitie
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-23 13:18:44 UTC
+**Last updated:** 2026-09-23 18:13:09 UTC
